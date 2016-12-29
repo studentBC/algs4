@@ -1,0 +1,5 @@
+2
+Kristoff
+Hearts_Q,Hearts_5,Hearts_9,Hearts_K,Hearts_A
+Elsa
+Spades_5,Spades_K,Spades_6,Spades_7,Spades_8
